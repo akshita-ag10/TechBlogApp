@@ -7,7 +7,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>Home</title>
 
 <!-- css -->
 <link rel="stylesheet"
@@ -15,12 +15,12 @@
 <link href="css/mystyle.css" rel="stylesheet" type="text/css" />
 <link rel="stylesheet"
 	href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-	
 <style>
 	.banner-background{
 		clip-path: polygon(0 0, 100% 0, 100% 75%, 100% 92%, 66% 100%, 28% 94%, 0 100%, 0 58%);
 	}
 </style>
+
 </head>
 <body>
 
@@ -48,9 +48,9 @@
 						<button class="btn btn-outline-light">
 							<span class="fa fa-user-plus"></span> Start ! Its Free
 						</button>
-						<button class="btn btn-outline-light">
+						<a href="login_page.jsp" class="btn btn-outline-light">
 							<span class="fa fa-user-circle fa-spin"></span> Login
-						</button>
+						</a>
 
 					</div>
 				</div>
