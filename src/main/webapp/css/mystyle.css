@@ -1,4 +1,8 @@
 @charset "UTF-8";
 body{
-	background-color:red;
+	
+}
+
+.primary-background{
+	background:#2196f3!important;
 }
