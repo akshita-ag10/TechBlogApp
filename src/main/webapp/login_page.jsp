@@ -34,7 +34,7 @@
 							<span class="fa fa-user-circle fa-3x "></span> <br>
 							<p>Login Here</p>
 						</div>
-						<div class="card-body">
+						<div class="card-body pb-0">
 							<form>
 								<div class="mb-3">
 									<label for="exampleInputEmail1" class="form-label">Email
@@ -55,7 +55,12 @@
 								</div>
 								<button type="submit" class="btn primary-background text-white">Submit</button>
 							</form>
+							<br>
+							<div class="text-center" >
+								<p>New User? <a href="register_page.jsp" style="text-decoration:none; color:#2196f3">Register here</a></p>
+							</div>
 						</div>
+						
 
 					</div>
 				</div>

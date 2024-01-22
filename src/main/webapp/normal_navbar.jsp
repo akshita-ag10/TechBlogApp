@@ -27,6 +27,9 @@
         <li class="nav-item">
           <a class="nav-link" href="login_page.jsp"><span class="fa fa-user-circle"></span> Login</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="register_page.jsp"><span class="fa fa-user-plus"></span> Register</a>
+        </li>
       </ul>
       <form class="d-flex" role="search">
         <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">

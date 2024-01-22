@@ -45,9 +45,9 @@
 							the design, implementation, analysis, characterization, and
 							classification of programming languages
 						</p>
-						<button class="btn btn-outline-light">
+						<a href="register_page.jsp" class="btn btn-outline-light">
 							<span class="fa fa-user-plus"></span> Start ! Its Free
-						</button>
+						</a>
 						<a href="login_page.jsp" class="btn btn-outline-light">
 							<span class="fa fa-user-circle fa-spin"></span> Login
 						</a>
